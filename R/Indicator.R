@@ -1,0 +1,30 @@
+#' Indicator: A package for constructing composite indicators, imputing and evaluating missing data imputation
+#'
+#' @description
+#' Provides three main categories of functions: construction of composite indicators, imputation and evaluation of missing data, and data normalization.
+#'
+#' @details
+#' Key features include:
+#' \itemize{
+#'   \item Construction of composite indicators, such as Mazziotta-Pareto Index, Adjusted Mazziotta-Pareto Index, Geometric aggregation, Linear aggregation, and other functions;
+#'   \item Imputation of missing data through techniques such as Linear Regression Imputation, Hot Deck Imputation, etc;
+#'   \item Evaluation of missing data imputation using metrics such as R^2, RMSE, and MAE;
+#'   \item Several functions to standardize and normalize data, such as Standardization by Adjusted Mazziotta-Pareto method, Normalization by Adjusted Mazziotta-Pareto method, and other functions.
+#' }
+#' @references
+#' \itemize{
+#'   \item{OECD/European Union/EC-JRC (2008), "Handbook on Constructing Composite Indicators: Methodology and User Guide", OECD Publishing, Paris, <DOI:10.1787/533411815016>}
+#'   \item{Matteo Mazziotta & Adriano Pareto (2018), "Measuring Well-Being Over Time: The Adjusted Mazziotta–Pareto Index Versus Other Non-compensatory Indices",Social Indicators Research, Springer, vol. 136(3), pages 967-976, April <DOI:10.1007/s11205-017-1577-5>}
+#'   \item{De Muro P., Mazziotta M., Pareto A. (2011), "Composite Indices of Development and Poverty: An Application to MDGs",Social Indicators Research, Volume 104, Number 1, pp. 1-18 <DOI:10.1007/s11205-010-9727-z>}
+#' }
+#'
+#' @docType package
+#'
+#' @author
+#' Gianmarco Borrata <gianmarco.borrata@@unina.it> and
+#' Pasquale Pipiciello <pasqualepipiciello24@@gmail.com>
+#'
+#' @name Indicator-package
+#'
+"_PACKAGE"
+

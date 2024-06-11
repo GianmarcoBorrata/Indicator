@@ -24,6 +24,14 @@ Key features include:
   \item{De Muro P., Mazziotta M., Pareto A. (2011), "Composite Indices of Development and Poverty: An Application to MDGs",Social Indicators Research, Volume 104, Number 1, pp. 1-18 <DOI:10.1007/s11205-010-9727-z>}
 }
 }
+\seealso{
+Useful links:
+\itemize{
+  \item \url{https://github.com/GianmarcoBorrata/Indicator}
+  \item Report bugs at \url{https://github.com/GianmarcoBorrata/Indicator/issues}
+}
+
+}
 \author{
 Gianmarco Borrata <gianmarco.borrata@unina.it> and
 Pasquale Pipiciello <pasqualepipiciello24@gmail.com>

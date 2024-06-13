@@ -29,7 +29,7 @@ You can install the Indicator package from CRAN using:
 
 # install.packages(“devtools”)
 
-devtools::install_github(“username/Indicator”)
+devtools::install_github(“GianmarcoBorrata/Indicator”)
 
 # References
 

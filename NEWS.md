@@ -1,3 +1,5 @@
+# Indicator (development version)
+
 # Indicator 0.1.2
 
 Update issued to address 'polarity' error in functions

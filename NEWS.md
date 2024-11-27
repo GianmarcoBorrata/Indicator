@@ -1,4 +1,4 @@
-# Indicator (development version)
+# Indicator 0.1.3
 
 Fix the error for the language
 
